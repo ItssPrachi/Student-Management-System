@@ -23,7 +23,7 @@ A simple desktop-based Java application using **Java 17**, **Hibernate**, **MySQ
 - Table: `students`
 - Connection handled via `Hibernate.cfg.xml`
 
-## 📷 UI Screenshot (Optional)
+## 📷 UI Screenshot 
 
 <img width="357" height="359" alt="image" src="https://github.com/user-attachments/assets/7bf3f0f3-2e55-4419-9ed6-c37d344c3296" />
 
